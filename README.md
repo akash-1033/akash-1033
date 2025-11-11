@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=akash-1033&theme=light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-1033&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+[![An image of @akash1033's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akash1033)](https://holopin.io/@akash1033)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
