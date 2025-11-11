@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **akash.kashyap.10398@gmail.com**
 
-- 📄 Explore my professional journey in my [resume](https://drive.google.com/file/d/1b4Bwnr2DBuTVRvidlllOMlKUtgEIC4L6/view?usp=sharing)
+- 📄 Explore my professional journey in my [resume](https://drive.google.com/file/d/1_j5LBG6MbzQ3RISfceiXiwh8--_0ZaR6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
