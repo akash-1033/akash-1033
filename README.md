@@ -82,23 +82,6 @@ Node.js • GraphQL • PostgreSQL • Prisma • Socket.IO • AWS
 
 ---
 
-## 🛒 CheckPoint — Gaming Marketplace
-
-Full-stack gaming marketplace.
-
-### Highlights
-
-- Secure Authentication
-- Product Management
-- Cloud Image Uploads
-- REST APIs
-- Responsive UI
-
-**Tech Stack**
-
-Node.js • Express.js • MongoDB • React • Cloudinary
----
-
 # 🏆 Competitive Programming
 
 - 🟨 LeetCode Knight (1850+)
